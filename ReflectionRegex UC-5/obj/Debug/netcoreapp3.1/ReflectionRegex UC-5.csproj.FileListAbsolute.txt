@@ -1,0 +1,13 @@
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\bin\Debug\netcoreapp3.1\ReflectionRegex UC-5.exe
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\bin\Debug\netcoreapp3.1\ReflectionRegex UC-5.deps.json
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\bin\Debug\netcoreapp3.1\ReflectionRegex UC-5.runtimeconfig.json
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\bin\Debug\netcoreapp3.1\ReflectionRegex UC-5.runtimeconfig.dev.json
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\bin\Debug\netcoreapp3.1\ReflectionRegex UC-5.dll
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\bin\Debug\netcoreapp3.1\ReflectionRegex UC-5.pdb
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\obj\Debug\netcoreapp3.1\ReflectionRegex UC-5.csproj.AssemblyReference.cache
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\obj\Debug\netcoreapp3.1\ReflectionRegex UC-5.AssemblyInfoInputs.cache
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\obj\Debug\netcoreapp3.1\ReflectionRegex UC-5.AssemblyInfo.cs
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\obj\Debug\netcoreapp3.1\ReflectionRegex UC-5.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\obj\Debug\netcoreapp3.1\ReflectionRegex UC-5.dll
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\obj\Debug\netcoreapp3.1\ReflectionRegex UC-5.pdb
+C:\Users\kisho\Reflection Using Regex\ReflectionRegex UC-5\obj\Debug\netcoreapp3.1\ReflectionRegex UC-5.genruntimeconfig.cache
