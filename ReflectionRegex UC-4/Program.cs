@@ -17,7 +17,7 @@ namespace ReflectionRegex_UC_4
             }
             else
             {
-                Console.WriteLine("Mobilenumber is Not Valid ");
+                Console.WriteLine("Mobilenumber is Not Valid");
             }
         }
     }
